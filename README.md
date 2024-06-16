@@ -1,7 +1,7 @@
 > [!CAUTION]
-> This is the only official place to download Bloxstrap. Any other websites offering downloads or claiming to be us are not controlled by us.
+> 這個不是官方的下載途徑
 
-# <img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="48"/> Bloxstrap
+# <img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="48"/> Bloxstrap中文版
 
 [![License](https://img.shields.io/github/license/pizzaboxer/bloxstrap)](https://github.com/pizzaboxer/bloxstrap/blob/main/LICENSE)
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/pizzaboxer/bloxstrap/ci.yml?branch=main&label=builds)](https://github.com/pizzaboxer/bloxstrap/actions)
@@ -10,42 +10,28 @@
 [![Discord](https://img.shields.io/discord/1099468797410283540?logo=discord&logoColor=white&label=discord&color=4d3dff)](https://discord.gg/nKjV3mGq6R)
 [![lol](https://img.shields.io/badge/mom%20made-pizza%20rolls-orange)](https://media.tenor.com/FIkSGbGycmAAAAAd/manly-roblox.gif)
 
-This is a drop-in replacement for the standard Roblox bootstrapper, providing additional useful features and improvements. Nothing more, nothing less.
+這是標準 Roblox 啟動程式的直接替代品版，提供了更多有用的功能和改進。僅此而已。
 
-This does not touch or modify the game client itself, it's really just a launcher. So don't worry, there's [no risk of being banned](https://github.com/pizzaboxer/bloxstrap/wiki/Why-it%27s-not-reasonably-possible-for-you-to-be-banned-by-Bloxstrap) for using this.
+它不會觸及或修改遊戲客戶端本身，實際上只是一個啟動器。所以不用擔心，使用它[不會有被封鎖的風險](https://github.com/pizzaboxer/bloxstrap/wiki/Why-it%27s-not-reasonably-possible-for-you-to-be-banned-by-Bloxstrap)。
 
-Running into a problem or need help with something? [Check out the Wiki](https://github.com/pizzaboxer/bloxstrap/wiki). If you can't find anything, or would like to suggest something, please [submit an issue](https://github.com/pizzaboxer/bloxstrap/issues) or report it in our [Discord server](https://discord.gg/nKjV3mGq6R).
+遇到問題或需要協助？ [查看維基](https://github.com/pizzaboxer/bloxstrap/wiki)。如果您找不到任何問題，或希望提出建議，請[提交問題](https://github.com/pizzaboxer/bloxstrap/issues) 或在我們的[Discord 伺服器](https://discord.gg/nKjV3mGq6R) 上報告。
+
+Bloxstrap 僅支援執行 Windows 的電腦。
+
  
-Bloxstrap is only supported for PCs running Windows.
+ ## 安裝
+下載 [原版Bloxstrap](https://github.com/pizzaboxer/bloxstrap/releases/latest), 並運行他
+
+
+
+你需要.NET 6.0才能運行他  [.NET 6 Desktop Runtime](https://aka.ms/dotnet-core-applaunch?missing_runtime=true&arch=x64&rid=win11-x64&apphost_version=6.0.16&gui=true)
+
+當您第一次執行 Bloxstrap 時，Windows Smartscreen 很可能會顯示彈出視窗。發生這種情況是因為它是未知程序，而不是因為它實際上被檢測為惡意程式。要關閉它，只需單擊“更多資訊”，然後單擊“仍然運行”。
+
+安裝後，Bloxstrap 將添加到您的「開始」功能表，您可以在其中存取功能表並根據需要重新配置您的首選項。
  
- ## Installing
-Download the [latest release of Bloxstrap](https://github.com/pizzaboxer/bloxstrap/releases/latest), and run it. Configure your preferences if needed, and install. That's about it!
-
-Alternatively, you can install Bloxstrap via [Winget](https://winstall.app/apps/pizzaboxer.Bloxstrap) by running this in a Command Prompt window:
-```
-> winget install bloxstrap
-```
-
-You will also need the [.NET 6 Desktop Runtime](https://aka.ms/dotnet-core-applaunch?missing_runtime=true&arch=x64&rid=win11-x64&apphost_version=6.0.16&gui=true). If you don't already have it installed, you'll be prompted to install it anyway. Be sure to install Bloxstrap after you've installed this.
-
-It's not unlikely that Windows Smartscreen will show a popup when you run Bloxstrap for the first time. This happens because it's an unknown program, not because it's actually detected as being malicious. To dismiss it, just click on "More info" and then "Run anyway".
-
-Once installed, Bloxstrap is added to your Start Menu, where you can access the menu and reconfigure your preferences if needed.
  
-## Features
-Here's some of the features that Bloxstrap provides over the stock Roblox bootstrapper:
-
-* Persistent file modifications, includes re-adding the old death sound!
-* Painless and seamless support for Discord Rich Presence
-* A customizable launcher look
-* Lets you see what region your current server is located in
-
-All the available features are browsable through the Bloxstrap menu.
-
-> [!WARNING]
-> Multi-instance launching will be removed in a future version of Bloxstrap. [Read more](https://github.com/pizzaboxer/bloxstrap/wiki/Plans-to-remove-multi%E2%80%90instance-launching-from-Bloxstrap)
-
-## Screenshots
+## 照片
 
 <p float="left">
     <img src="https://github.com/pizzaboxer/bloxstrap/assets/41478239/dcfd0cdf-1aae-45bb-849a-f7710ec63b28" width="435" />
