@@ -20,7 +20,7 @@ Bloxstrap 僅支援執行 Windows 的電腦。
 
  
  ## 安裝
-下載 [原版Bloxstrap](https://github.com/pizzaboxer/bloxstrap/releases/latest), 並運行他
+下載 [Bloxstrap](https://github.com/imloadinguuu/bloxstrap.zh-tw/releases/latest), 並運行他
 
 
 
