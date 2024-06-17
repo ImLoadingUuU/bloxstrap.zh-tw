@@ -79,7 +79,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Bloxstrap was unable to auto-update to {0}. Please update it manually by downloading and running the latest release from the GitHub page..
+        ///   Looks up a localized string similar to Bloxstrap 無法自動更新到 {0}。請透過從 GitHub 頁面下載並執行最新版本來手動更新它。.
         /// </summary>
         public static string Bootstrapper_AutoUpdateFailed {
             get {
@@ -88,7 +88,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to It&apos;s possible that something is preventing Bloxstrap from connecting to the internet. Please check and try again..
+        ///   Looks up a localized string similar to 可能有什麼原因阻止 Bloxstrap 連接到網路。請檢查並重試。.
         /// </summary>
         public static string Bootstrapper_Connectivity_Preventing {
             get {
@@ -97,7 +97,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Roblox may be down right now. See status.roblox.com for more information. Please try again later..
+        ///   Looks up a localized string similar to Roblox 現在可能已經宕機了。請參閱 status.roblox.com 以了解更多資訊。請稍後再試。.
         /// </summary>
         public static string Bootstrapper_Connectivity_RobloxDown {
             get {
@@ -115,7 +115,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Could not apply the {0} emoji mod preset because of a network error. To try again, please reconfigure the option in the Bloxstrap Menu..
+        ///   Looks up a localized string similar to 由於網路錯誤，無法應用 {0} 表情符號預設。請在 Bloxstrap 選單中重新配置選項以重試。.
         /// </summary>
         public static string Bootstrapper_EmojiPresetFetchFailed {
             get {
@@ -124,7 +124,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You must first install Bloxstrap before uninstalling..
+        ///   Looks up a localized string similar to 在卸載之前，您必須先安裝 Bloxstrap。.
         /// </summary>
         public static string Bootstrapper_FirstRunUninstall {
             get {
@@ -133,9 +133,9 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Roblox has now finished rolling out the new game client update, featuring 64-bit support and the Hyperion anticheat. ReShade does not work with this update, and so it has now been disabled and removed from Bloxstrap.
+        ///   Looks up a localized string similar to Roblox 已經完成了新的遊戲客戶端更新，支援 64 位元和 Hyperion 反作弊系統。ReShade 與此更新不相容，因此已被禁用並從 Bloxstrap 中移除。
         ///
-        ///Your ReShade configuration files will still be saved, and you can locate them by opening the folder where Bloxstrap is installed to, and navigating to the Integrations folder. You can choose to delete these if you want..
+        ///您的 ReShade 配置檔案仍將被保存，您可以透過開啟 Bloxstrap 安裝目錄並導覽到 Integrations 資料夾找到它們。如果您願意，可以選擇刪除這些檔案。.
         /// </summary>
         public static string Bootstrapper_HyperionUpdateInfo {
             get {
@@ -144,7 +144,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Bloxstrap does not have enough disk space to download and install Roblox. Please free up some disk space and try again..
+        ///   Looks up a localized string similar to Bloxstrap 沒有足夠的磁碟空間來下載和安裝 Roblox。請釋放一些磁碟空間，然後重試。.
         /// </summary>
         public static string Bootstrapper_NotEnoughSpace {
             get {
@@ -153,7 +153,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Applying Roblox modifications....
+        ///   Looks up a localized string similar to 正在應用 Roblox 修改....
         /// </summary>
         public static string Bootstrapper_Status_ApplyingModifications {
             get {
@@ -162,7 +162,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Configuring {product}....
+        ///   Looks up a localized string similar to 正在配置 {product}....
         /// </summary>
         public static string Bootstrapper_Status_Configuring {
             get {
@@ -171,7 +171,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Connecting to Roblox....
+        ///   Looks up a localized string similar to 正在連接到 Roblox....
         /// </summary>
         public static string Bootstrapper_Status_Connecting {
             get {
@@ -180,7 +180,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Installing {product}....
+        ///   Looks up a localized string similar to 正在安裝 {product}....
         /// </summary>
         public static string Bootstrapper_Status_Installing {
             get {
@@ -189,7 +189,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Installing WebView2, please wait....
+        ///   Looks up a localized string similar to 正在安裝 WebView2，請稍候....
         /// </summary>
         public static string Bootstrapper_Status_InstallingWebView2 {
             get {
@@ -198,7 +198,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Starting {product}....
+        ///   Looks up a localized string similar to 正在啟動 {product}....
         /// </summary>
         public static string Bootstrapper_Status_Starting {
             get {
@@ -207,7 +207,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Uninstalling Bloxstrap....
+        ///   Looks up a localized string similar to 正在卸載 Bloxstrap....
         /// </summary>
         public static string Bootstrapper_Status_Uninstalling {
             get {
@@ -216,7 +216,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Upgrading {product}....
+        ///   Looks up a localized string similar to 正在升級 {product}....
         /// </summary>
         public static string Bootstrapper_Status_Upgrading {
             get {
@@ -225,7 +225,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Getting the latest Bloxstrap....
+        ///   Looks up a localized string similar to 正在獲取最新的 Bloxstrap....
         /// </summary>
         public static string Bootstrapper_Status_UpgradingBloxstrap {
             get {
@@ -234,7 +234,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Waiting for other instances....
+        ///   Looks up a localized string similar to 正在等待其他實例....
         /// </summary>
         public static string Bootstrapper_Status_WaitingOtherInstances {
             get {
@@ -243,7 +243,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Style preview - Click the X button at the top right to close.
+        ///   Looks up a localized string similar to 樣式預覽 - 點擊右上角的 X 按鈕關閉.
         /// </summary>
         public static string Bootstrapper_StylePreview_ImageCancel {
             get {
@@ -252,7 +252,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Style preview - Click Cancel to close.
+        ///   Looks up a localized string similar to 樣式預覽 - 點擊取消關閉.
         /// </summary>
         public static string Bootstrapper_StylePreview_TextCancel {
             get {
@@ -261,7 +261,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Bloxstrap has successfully installed.
+        ///   Looks up a localized string similar to Bloxstrap 安裝成功.
         /// </summary>
         public static string Bootstrapper_SuccessfullyInstalled {
             get {
@@ -270,7 +270,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Bloxstrap has successfully uninstalled.
+        ///   Looks up a localized string similar to Bloxstrap 卸載成功.
         /// </summary>
         public static string Bootstrapper_SuccessfullyUninstalled {
             get {
@@ -279,7 +279,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Roblox is currently running, but must be closed before uninstalling Bloxstrap. Would you like close Roblox now?.
+        ///   Looks up a localized string similar to Roblox 目前正在執行，但在卸載 Bloxstrap 之前必須關閉它。您是否要立即關閉 Roblox？.
         /// </summary>
         public static string Bootstrapper_Uninstall_RobloxRunning {
             get {
@@ -288,7 +288,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Roblox requires the use of Windows Media Foundation components. You appear to be missing them, likely because you are using an N edition of Windows. Please install them first, and then launch Roblox..
+        ///   Looks up a localized string similar to Roblox 需要使用 Windows Media Foundation 元件。您似乎缺少它們，可能是因為您使用的是 Windows 的 N 版本。請先安裝它們，然後再啟動 Roblox。.
         /// </summary>
         public static string Bootstrapper_WMFNotFound {
             get {
@@ -297,7 +297,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Browse.
+        ///   Looks up a localized string similar to 瀏覽.
         /// </summary>
         public static string Common_Browse {
             get {
@@ -306,7 +306,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Cancel.
+        ///   Looks up a localized string similar to 取消.
         /// </summary>
         public static string Common_Cancel {
             get {
@@ -315,7 +315,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Close.
+        ///   Looks up a localized string similar to 關閉.
         /// </summary>
         public static string Common_Close {
             get {
@@ -324,7 +324,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Delete.
+        ///   Looks up a localized string similar to 刪除.
         /// </summary>
         public static string Common_Delete {
             get {
@@ -342,7 +342,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Help.
+        ///   Looks up a localized string similar to 幫助.
         /// </summary>
         public static string Common_Help {
             get {
@@ -351,7 +351,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Import JSON.
+        ///   Looks up a localized string similar to 匯入 JSON.
         /// </summary>
         public static string Common_ImportJson {
             get {
@@ -360,7 +360,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Locate log file.
+        ///   Looks up a localized string similar to 定位日誌檔案.
         /// </summary>
         public static string Common_LocateLogFile {
             get {
@@ -369,7 +369,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Miscellaneous.
+        ///   Looks up a localized string similar to 其他.
         /// </summary>
         public static string Common_Miscellaneous {
             get {
@@ -378,7 +378,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Name.
+        ///   Looks up a localized string similar to 名稱.
         /// </summary>
         public static string Common_Name {
             get {
@@ -387,7 +387,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to New.
+        ///   Looks up a localized string similar to 新增.
         /// </summary>
         public static string Common_New {
             get {
@@ -396,7 +396,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to No.
+        ///   Looks up a localized string similar to 否.
         /// </summary>
         public static string Common_No {
             get {
@@ -405,7 +405,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to OK.
+        ///   Looks up a localized string similar to 確定.
         /// </summary>
         public static string Common_OK {
             get {
@@ -414,7 +414,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Presets.
+        ///   Looks up a localized string similar to 預設.
         /// </summary>
         public static string Common_Presets {
             get {
@@ -423,7 +423,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Reset.
+        ///   Looks up a localized string similar to 重置.
         /// </summary>
         public static string Common_Reset {
             get {
@@ -432,7 +432,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Value.
+        ///   Looks up a localized string similar to 值.
         /// </summary>
         public static string Common_Value {
             get {
@@ -441,7 +441,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Warning.
+        ///   Looks up a localized string similar to 警告.
         /// </summary>
         public static string Common_Warning {
             get {
@@ -450,7 +450,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Yes.
+        ///   Looks up a localized string similar to 是.
         /// </summary>
         public static string Common_Yes {
             get {
@@ -459,7 +459,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Close Roblox.
+        ///   Looks up a localized string similar to 關閉 Roblox.
         /// </summary>
         public static string ContextMenu_CloseRoblox {
             get {
@@ -468,7 +468,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Are you sure you want to close Roblox? This will forcefully end the process..
+        ///   Looks up a localized string similar to 您確定要關閉 Roblox 嗎？這將強制結束進程。.
         /// </summary>
         public static string ContextMenu_CloseRobloxMessage {
             get {
@@ -477,7 +477,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Copy invite deeplink.
+        ///   Looks up a localized string similar to 複製邀請連結.
         /// </summary>
         public static string ContextMenu_CopyDeeplinkInvite {
             get {
@@ -486,7 +486,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Open log file.
+        ///   Looks up a localized string similar to 開啟日誌檔案.
         /// </summary>
         public static string ContextMenu_OpenLogFile {
             get {
@@ -495,7 +495,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to See server details.
+        ///   Looks up a localized string similar to 查看伺服器詳情.
         /// </summary>
         public static string ContextMenu_SeeServerDetails {
             get {
@@ -504,7 +504,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Copy Instance ID.
+        ///   Looks up a localized string similar to 複製實例 ID.
         /// </summary>
         public static string ContextMenu_ServerInformation_CopyInstanceId {
             get {
@@ -513,7 +513,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Instance ID.
+        ///   Looks up a localized string similar to 實例 ID.
         /// </summary>
         public static string ContextMenu_ServerInformation_InstanceId {
             get {
@@ -522,7 +522,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Loading, please wait....
+        ///   Looks up a localized string similar to 載入中，請稍候....
         /// </summary>
         public static string ContextMenu_ServerInformation_Loading {
             get {
@@ -531,7 +531,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Location.
+        ///   Looks up a localized string similar to 位置.
         /// </summary>
         public static string ContextMenu_ServerInformation_Location {
             get {
@@ -540,8 +540,8 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Located at {0}
-        ///Click for more information.
+        ///   Looks up a localized string similar to 位於 {0}
+        ///點擊獲取更多資訊.
         /// </summary>
         public static string ContextMenu_ServerInformation_Notification_Text {
             get {
@@ -550,7 +550,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Connected to {0} server.
+        ///   Looks up a localized string similar to 已連接到 {0} 伺服器.
         /// </summary>
         public static string ContextMenu_ServerInformation_Notification_Title {
             get {
@@ -559,7 +559,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Server information.
+        ///   Looks up a localized string similar to 伺服器資訊.
         /// </summary>
         public static string ContextMenu_ServerInformation_Title {
             get {
@@ -568,7 +568,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Type.
+        ///   Looks up a localized string similar to 類型.
         /// </summary>
         public static string ContextMenu_ServerInformation_Type {
             get {
@@ -577,7 +577,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to {0} server.
+        ///   Looks up a localized string similar to {0} 伺服器.
         /// </summary>
         public static string ContextMenu_ServerInformation_TypeFormat {
             get {
@@ -586,7 +586,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Add FastFlag.
+        ///   Looks up a localized string similar to 新增 FastFlag.
         /// </summary>
         public static string Dialog_AddFastFlag_Title {
             get {
@@ -606,7 +606,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to More information:.
+        ///   Looks up a localized string similar to 更多資訊：.
         /// </summary>
         public static string Dialog_Connectivity_MoreInfo {
             get {
@@ -615,7 +615,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Connectivity error.
+        ///   Looks up a localized string similar to 連線錯誤.
         /// </summary>
         public static string Dialog_Connectivity_Title {
             get {
@@ -624,7 +624,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Bloxstrap is unable to connect to {0}.
+        ///   Looks up a localized string similar to Bloxstrap 無法連線到 {0}.
         /// </summary>
         public static string Dialog_Connectivity_UnableToConnect {
             get {
@@ -633,7 +633,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Copy log contents.
+        ///   Looks up a localized string similar to 複製日誌內容.
         /// </summary>
         public static string Dialog_Exception_CopyLogContents {
             get {
@@ -642,7 +642,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to An exception occurred while running Bloxstrap.
+        ///   Looks up a localized string similar to 執行 Bloxstrap 時發生異常.
         /// </summary>
         public static string Dialog_Exception_Info_1 {
             get {
@@ -651,7 +651,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Please report this exception through a GitHub issue or in our Discord chat, along with a copy of the log file that was created..
+        ///   Looks up a localized string similar to 請透過 GitHub 問題或我們的 Discord 聊天報告此異常，並附上建立的日誌檔案的副本。.
         /// </summary>
         public static string Dialog_Exception_Info_2 {
             get {
@@ -660,7 +660,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Submit report....
+        ///   Looks up a localized string similar to 提交報告....
         /// </summary>
         public static string Dialog_Exception_SubmitReport {
             get {
@@ -669,7 +669,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Submit report via Discord.
+        ///   Looks up a localized string similar to 透過 Discord 提交報告.
         /// </summary>
         public static string Dialog_Exception_SubmitReportDiscord {
             get {
@@ -678,7 +678,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Submit report via GitHub.
+        ///   Looks up a localized string similar to 透過 GitHub 提交報告.
         /// </summary>
         public static string Dialog_Exception_SubmitReportGithub {
             get {
@@ -687,7 +687,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Bloxstrap Exception.
+        ///   Looks up a localized string similar to Bloxstrap 異常.
         /// </summary>
         public static string Dialog_Exception_Title {
             get {
@@ -750,7 +750,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Custom.
+        ///   Looks up a localized string similar to 自訂.
         /// </summary>
         public static string Enums_BootstrapperIcon_IconCustom {
             get {
@@ -759,7 +759,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Early 2015.
+        ///   Looks up a localized string similar to 早期 2015.
         /// </summary>
         public static string Enums_BootstrapperIcon_IconEarly2015 {
             get {
@@ -768,7 +768,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Late 2015.
+        ///   Looks up a localized string similar to 晚期 2015.
         /// </summary>
         public static string Enums_BootstrapperIcon_IconLate2015 {
             get {
@@ -786,7 +786,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fluent (Classic).
+        ///   Looks up a localized string similar to Fluent (經典).
         /// </summary>
         public static string Enums_BootstrapperStyle_ClassicFluentDialog {
             get {
@@ -795,7 +795,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fluent (Glass).
+        ///   Looks up a localized string similar to Fluent (毛玻璃).
         /// </summary>
         public static string Enums_BootstrapperStyle_FluentAeroDialog {
             get {
@@ -813,7 +813,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Legacy (2008 - 2011).
+        ///   Looks up a localized string similar to 經典 (2008 - 2011).
         /// </summary>
         public static string Enums_BootstrapperStyle_LegacyDialog2008 {
             get {
@@ -822,7 +822,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Legacy (2011 - 2014).
+        ///   Looks up a localized string similar to 經典 (2011 - 2014).
         /// </summary>
         public static string Enums_BootstrapperStyle_LegacyDialog2011 {
             get {
@@ -831,7 +831,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Progress (~2014).
+        ///   Looks up a localized string similar to 進度條 (~2014).
         /// </summary>
         public static string Enums_BootstrapperStyle_ProgressDialog {
             get {
@@ -849,7 +849,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Change automatically.
+        ///   Looks up a localized string similar to 自動變更.
         /// </summary>
         public static string Enums_ChannelChangeMode_Automatic {
             get {
@@ -858,7 +858,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Never change.
+        ///   Looks up a localized string similar to 永不變更.
         /// </summary>
         public static string Enums_ChannelChangeMode_Ignore {
             get {
@@ -867,7 +867,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Always prompt.
+        ///   Looks up a localized string similar to 始終提示.
         /// </summary>
         public static string Enums_ChannelChangeMode_Prompt {
             get {
@@ -876,7 +876,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Default.
+        ///   Looks up a localized string similar to 預設.
         /// </summary>
         public static string Enums_CursorType_Default {
             get {
@@ -885,7 +885,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 2006 (Cartoony).
+        ///   Looks up a localized string similar to 2006 (卡通風格).
         /// </summary>
         public static string Enums_CursorType_From2006 {
             get {
@@ -894,7 +894,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 2013 (Angular).
+        ///   Looks up a localized string similar to 2013 (三角風格).
         /// </summary>
         public static string Enums_CursorType_From2013 {
             get {
@@ -912,7 +912,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Default (Twemoji).
+        ///   Looks up a localized string similar to 預設 (Twemoji).
         /// </summary>
         public static string Enums_EmojiType_Default {
             get {
@@ -948,7 +948,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Default.
+        ///   Looks up a localized string similar to 預設.
         /// </summary>
         public static string Enums_FlagPresets_InGameMenuVersion_Default {
             get {
@@ -957,7 +957,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Version 1 (2015).
+        ///   Looks up a localized string similar to 版本 1 (2015).
         /// </summary>
         public static string Enums_FlagPresets_InGameMenuVersion_V1 {
             get {
@@ -966,7 +966,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Version 2 (2020).
+        ///   Looks up a localized string similar to 版本 2 (2020).
         /// </summary>
         public static string Enums_FlagPresets_InGameMenuVersion_V2 {
             get {
@@ -975,7 +975,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Version 4 (2023).
+        ///   Looks up a localized string similar to 版本 4 (2023).
         /// </summary>
         public static string Enums_FlagPresets_InGameMenuVersion_V4 {
             get {
@@ -984,7 +984,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Chosen by game.
+        ///   Looks up a localized string similar to 由遊戲選擇.
         /// </summary>
         public static string Enums_FlagPresets_LightingMode_Default {
             get {
@@ -993,7 +993,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Future (Phase 3).
+        ///   Looks up a localized string similar to Future (第 3 階段).
         /// </summary>
         public static string Enums_FlagPresets_LightingMode_Future {
             get {
@@ -1002,7 +1002,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Shadow Map (Phase 2).
+        ///   Looks up a localized string similar to ShadowMap (第 2 階段).
         /// </summary>
         public static string Enums_FlagPresets_LightingMode_ShadowMap {
             get {
@@ -1011,7 +1011,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Voxel (Phase 1).
+        ///   Looks up a localized string similar to Voxel (第 1 階段).
         /// </summary>
         public static string Enums_FlagPresets_LightingMode_Voxel {
             get {
@@ -1020,7 +1020,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Chosen by game.
+        ///   Looks up a localized string similar to 由遊戲選擇.
         /// </summary>
         public static string Enums_FlagPresets_MaterialVersion_Default {
             get {
@@ -1029,7 +1029,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to New (2022).
+        ///   Looks up a localized string similar to 新版 (2022).
         /// </summary>
         public static string Enums_FlagPresets_MaterialVersion_New {
             get {
@@ -1038,7 +1038,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Old (Pre-2022).
+        ///   Looks up a localized string similar to 舊版 (2022 前).
         /// </summary>
         public static string Enums_FlagPresets_MaterialVersion_Old {
             get {
@@ -1047,7 +1047,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Automatic.
+        ///   Looks up a localized string similar to 自動.
         /// </summary>
         public static string Enums_FlagPresets_MSAAMode_Default {
             get {
@@ -1110,7 +1110,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Automatic.
+        ///   Looks up a localized string similar to 自動.
         /// </summary>
         public static string Enums_FlagPresets_RenderingMode_Default {
             get {
@@ -1137,7 +1137,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Private.
+        ///   Looks up a localized string similar to 私人.
         /// </summary>
         public static string Enums_ServerType_Private {
             get {
@@ -1146,7 +1146,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Public.
+        ///   Looks up a localized string similar to 公開.
         /// </summary>
         public static string Enums_ServerType_Public {
             get {
@@ -1155,7 +1155,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Reserved.
+        ///   Looks up a localized string similar to 保留.
         /// </summary>
         public static string Enums_ServerType_Reserved {
             get {
@@ -1164,7 +1164,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Dark.
+        ///   Looks up a localized string similar to 暗色.
         /// </summary>
         public static string Enums_Theme_Dark {
             get {
@@ -1173,7 +1173,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to System Default.
+        ///   Looks up a localized string similar to 系統預設.
         /// </summary>
         public static string Enums_Theme_Default {
             get {
@@ -1182,7 +1182,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Light.
+        ///   Looks up a localized string similar to 亮色.
         /// </summary>
         public static string Enums_Theme_Light {
             get {
@@ -1191,9 +1191,9 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Bloxstrap has detected a drive letter change and has reconfigured its install location from the {0} drive to the {1} drive.
+        ///   Looks up a localized string similar to Bloxstrap 偵測到驅動器字母變更，並已重新配置其安裝位置從 {0} 驅動器更改為 {1} 驅動器。
         ///
-        ///While Bloxstrap will continue to work, it&apos;s recommended that you change the drive letter back to its original value as other installed applications can experience similar issues..
+        ///雖然 Bloxstrap 仍然可以運作，但建議您將驅動器字母更改回原始值，因為其他已安裝的應用程式可能會遇到類似的問題。.
         /// </summary>
         public static string InstallChecker_DriveLetterChangeDetected {
             get {
@@ -1202,7 +1202,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Bloxstrap was originally installed to the {0} drive, but it appears to no longer be present. Would you like to continue and carry out a fresh install?.
+        ///   Looks up a localized string similar to Bloxstrap 最初安裝在 {0} 驅動器，但似乎不再存在。您是否要繼續並進行全新安裝？.
         /// </summary>
         public static string InstallChecker_InstallDriveMissing {
             get {
@@ -1211,7 +1211,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to It appears as if Bloxstrap hasn&apos;t been properly installed. Is it supposed to be installed at {0}?.
+        ///   Looks up a localized string similar to 似乎 Bloxstrap 尚未正確安裝。它是否應該安裝在 {0}？.
         /// </summary>
         public static string InstallChecker_NotInstalledProperly {
             get {
@@ -1220,7 +1220,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to See what&apos;s new in this version.
+        ///   Looks up a localized string similar to 查看此版本的新功能.
         /// </summary>
         public static string InstallChecker_SeeWhatsNew {
             get {
@@ -1229,7 +1229,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Bloxstrap has been upgraded to v{0}.
+        ///   Looks up a localized string similar to Bloxstrap 已升級到 v{0}.
         /// </summary>
         public static string InstallChecker_Updated {
             get {
@@ -1238,8 +1238,8 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The version of Bloxstrap you&apos;ve launched is different to the version you currently have installed.
-        ///Would you like to upgrade your currently installed version?.
+        ///   Looks up a localized string similar to 您啟動的 Bloxstrap 版本與您目前已安裝的版本不同。
+        ///您是否要升級您目前已安裝的版本？.
         /// </summary>
         public static string InstallChecker_VersionDifferentThanInstalled {
             get {
@@ -1248,7 +1248,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Commit Hash.
+        ///   Looks up a localized string similar to 提交 Hash.
         /// </summary>
         public static string Menu_About_BuildCommitHash {
             get {
@@ -1257,7 +1257,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Build Information.
+        ///   Looks up a localized string similar to 建置資訊.
         /// </summary>
         public static string Menu_About_BuildInformation {
             get {
@@ -1266,7 +1266,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Machine.
+        ///   Looks up a localized string similar to 機器.
         /// </summary>
         public static string Menu_About_BuildMachine {
             get {
@@ -1275,7 +1275,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Commit Ref.
+        ///   Looks up a localized string similar to 提交 Ref.
         /// </summary>
         public static string Menu_About_BuildRef {
             get {
@@ -1284,7 +1284,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Timestamp.
+        ///   Looks up a localized string similar to 時間.
         /// </summary>
         public static string Menu_About_BuildTimestamp {
             get {
@@ -1293,7 +1293,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Contributors.
+        ///   Looks up a localized string similar to 貢獻者.
         /// </summary>
         public static string Menu_About_Contributors {
             get {
@@ -1311,7 +1311,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to These are the people who have made notable contributions to Bloxstrap, helping make it what it is..
+        ///   Looks up a localized string similar to 這些人為 Bloxstrap 做出了顯著貢獻，幫助其發展成現在的樣子。.
         /// </summary>
         public static string Menu_About_Contributors_Description {
             get {
@@ -1320,7 +1320,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Feature Ideas.
+        ///   Looks up a localized string similar to 功能想法.
         /// </summary>
         public static string Menu_About_Contributors_FeatureIdeas {
             get {
@@ -1329,7 +1329,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Special Thanks.
+        ///   Looks up a localized string similar to 特別感謝.
         /// </summary>
         public static string Menu_About_Contributors_SpecialThanks {
             get {
@@ -1338,7 +1338,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Translations.
+        ///   Looks up a localized string similar to 翻譯.
         /// </summary>
         public static string Menu_About_Contributors_Translations {
             get {
@@ -1347,7 +1347,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to An alternative bootstrapper for Roblox with a bunch of extra features..
+        ///   Looks up a localized string similar to 一個Roblox啟動器含有更多功能.
         /// </summary>
         public static string Menu_About_Description {
             get {
@@ -1356,7 +1356,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Discord server.
+        ///   Looks up a localized string similar to Discord 伺服器.
         /// </summary>
         public static string Menu_About_DiscordServer {
             get {
@@ -1365,7 +1365,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to GitHub repository.
+        ///   Looks up a localized string similar to GitHub 倉庫.
         /// </summary>
         public static string Menu_About_GithubRepository {
             get {
@@ -1374,7 +1374,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Help and Information.
+        ///   Looks up a localized string similar to 幫助和資訊.
         /// </summary>
         public static string Menu_About_HelpInformation {
             get {
@@ -1383,7 +1383,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Licenses.
+        ///   Looks up a localized string similar to Licenses軟體授權條款.
         /// </summary>
         public static string Menu_About_Licenses {
             get {
@@ -1392,7 +1392,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to BSD 2-Clause License.
+        ///   Looks up a localized string similar to BSD 2-Clause 軟體授權條款.
         /// </summary>
         public static string Menu_About_Licenses_BSD2 {
             get {
@@ -1401,7 +1401,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to MIT License.
+        ///   Looks up a localized string similar to MIT 軟體授權條款.
         /// </summary>
         public static string Menu_About_Licenses_MIT {
             get {
@@ -1410,7 +1410,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Report an issue.
+        ///   Looks up a localized string similar to 提交問題.
         /// </summary>
         public static string Menu_About_ReportIssue {
             get {
@@ -1419,7 +1419,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to About.
+        ///   Looks up a localized string similar to 關於.
         /// </summary>
         public static string Menu_About_Title {
             get {
@@ -1428,7 +1428,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Using an unreleased version, I see?.
+        ///   Looks up a localized string similar to 正在使用尚未發行的版本?.
         /// </summary>
         public static string Menu_About_UnreleasedVersion {
             get {
@@ -1446,7 +1446,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to All files.
+        ///   Looks up a localized string similar to 所有檔案.
         /// </summary>
         public static string Menu_AllFiles {
             get {
@@ -1455,7 +1455,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Please note that not all your changes will immediately apply until you close all currently open Roblox instances..
+        ///   Looks up a localized string similar to 所有功能變更後不會立即應用直到你重新開啟Roblox之後.
         /// </summary>
         public static string Menu_AlreadyRunning_Caption {
             get {
@@ -1464,7 +1464,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Bloxstrap is already running.
+        ///   Looks up a localized string similar to Bloxstrap 已經在運行了.
         /// </summary>
         public static string Menu_AlreadyRunning_Title {
             get {
@@ -1473,7 +1473,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You can make it look different, retro, or even just like Roblox..
+        ///   Looks up a localized string similar to 你能讓它變得更特別,像是古老風格,或是現代風格,或是直接是原版風格.
         /// </summary>
         public static string Menu_Appearance_Bootstrapper_Description {
             get {
@@ -1482,7 +1482,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Bootstrapper.
+        ///   Looks up a localized string similar to 啟動器.
         /// </summary>
         public static string Menu_Appearance_Bootstrapper_Title {
             get {
@@ -1491,7 +1491,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Configure other miscellaneous customisable options..
+        ///   Looks up a localized string similar to 更改其他各種可自訂選項。.
         /// </summary>
         public static string Menu_Appearance_Customisation_Description {
             get {
@@ -1500,7 +1500,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Customisation.
+        ///   Looks up a localized string similar to 自訂.
         /// </summary>
         public static string Menu_Appearance_Customisation_Title {
             get {
@@ -1509,7 +1509,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Must be a multi-size .ico file with sizes 16px to 128px. Set Icon as &apos;Custom&apos; to use it..
+        ///   Looks up a localized string similar to 配置其他各種可自訂選項。將圖片設為&quot;自訂&quot;即可使用.
         /// </summary>
         public static string Menu_Appearance_CustomisationIcon_Description {
             get {
@@ -1518,7 +1518,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Custom Icon.
+        ///   Looks up a localized string similar to 自訂圖標.
         /// </summary>
         public static string Menu_Appearance_CustomisationIcon_Title {
             get {
@@ -1527,7 +1527,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The text that shows as the title of the bootstrapper..
+        ///   Looks up a localized string similar to 顯示為Bloxstrap標題的文字。.
         /// </summary>
         public static string Menu_Appearance_CustomisationTitle_Description {
             get {
@@ -1536,7 +1536,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Title.
+        ///   Looks up a localized string similar to 標題.
         /// </summary>
         public static string Menu_Appearance_CustomisationTitle_Title {
             get {
@@ -1545,7 +1545,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Configure how Bloxstrap should look..
+        ///   Looks up a localized string similar to 自訂Bloxstrap的外觀.
         /// </summary>
         public static string Menu_Appearance_Description {
             get {
@@ -1554,7 +1554,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Global Theme.
+        ///   Looks up a localized string similar to 全域主題.
         /// </summary>
         public static string Menu_Appearance_Global_Theme_Title {
             get {
@@ -1563,7 +1563,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Choose what icon it should use..
+        ///   Looks up a localized string similar to 決定應該用甚麼圖標.
         /// </summary>
         public static string Menu_Appearance_Icon_Description {
             get {
@@ -1572,7 +1572,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Icon.
+        ///   Looks up a localized string similar to 圖標.
         /// </summary>
         public static string Menu_Appearance_Icon_Title {
             get {
@@ -1581,7 +1581,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Preview.
+        ///   Looks up a localized string similar to 預覽.
         /// </summary>
         public static string Menu_Appearance_Preview {
             get {
@@ -1590,7 +1590,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Choose how it should look. Dark theme does not apply to Legacy/Vista..
+        ///   Looks up a localized string similar to 選擇它的外觀,暗黑模式將不會應用到Vista/經典(Legacy)模式.
         /// </summary>
         public static string Menu_Appearance_Style_Description {
             get {
@@ -1599,7 +1599,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Style.
+        ///   Looks up a localized string similar to 風格.
         /// </summary>
         public static string Menu_Appearance_Style_Title {
             get {
@@ -1608,7 +1608,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Appearance.
+        ///   Looks up a localized string similar to 外貌.
         /// </summary>
         public static string Menu_Appearance_Title {
             get {
@@ -1617,7 +1617,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Bloxstrap will automatically check and update itself when launching Roblox..
+        ///   Looks up a localized string similar to 每當Roblox啟動時,Bloxstrap 會檢查自己的版本並更新.
         /// </summary>
         public static string Menu_Behaviour_AutoUpdate_Description {
             get {
@@ -1626,7 +1626,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Automatically update Bloxstrap.
+        ///   Looks up a localized string similar to 自動更新Bloxstrap.
         /// </summary>
         public static string Menu_Behaviour_AutoUpdate_Title {
             get {
@@ -1635,7 +1635,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Bloxstrap will place an icon on the desktop that launches Roblox the next time it launches..
+        ///   Looks up a localized string similar to Bloxstrap會將一個捷徑放在桌面上.
         /// </summary>
         public static string Menu_Behaviour_CreateDesktopIcon_Description {
             get {
@@ -1644,7 +1644,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Create desktop icon.
+        ///   Looks up a localized string similar to 建立一個捷徑.
         /// </summary>
         public static string Menu_Behaviour_CreateDesktopIcon_Title {
             get {
@@ -1653,7 +1653,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Configure what Bloxstrap should do when launching..
+        ///   Looks up a localized string similar to 設定Bloxstrap應該做些甚麼.
         /// </summary>
         public static string Menu_Behaviour_Description {
             get {
@@ -1662,7 +1662,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Roblox will be installed fresh on next launch..
+        ///   Looks up a localized string similar to Roblox將會乾淨俐落一點不留的重新安裝.
         /// </summary>
         public static string Menu_Behaviour_ForceRobloxReinstall_Description {
             get {
@@ -1671,7 +1671,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Force Roblox reinstallation.
+        ///   Looks up a localized string similar to 強制重新安裝.
         /// </summary>
         public static string Menu_Behaviour_ForceRobloxReinstall_Title {
             get {
@@ -1680,7 +1680,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Behaviour.
+        ///   Looks up a localized string similar to 行為.
         /// </summary>
         public static string Menu_Behaviour_Title {
             get {
@@ -1689,7 +1689,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Add new.
+        ///   Looks up a localized string similar to 增加.
         /// </summary>
         public static string Menu_FastFlagEditor_AddNew {
             get {
@@ -1698,7 +1698,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to An entry for this flag name already exists..
+        ///   Looks up a localized string similar to 該Flag名稱的條目已存在。.
         /// </summary>
         public static string Menu_FastFlagEditor_AlreadyExists {
             get {
@@ -1707,7 +1707,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Back.
+        ///   Looks up a localized string similar to 返回.
         /// </summary>
         public static string Menu_FastFlagEditor_Back {
             get {
@@ -1716,7 +1716,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Misusing this can lead to instability or unexpected things happening..
+        ///   Looks up a localized string similar to 濫用這一點可能會導致不穩定或發生意外的事情。.
         /// </summary>
         public static string Menu_FastFlagEditor_BannerText {
             get {
@@ -1725,7 +1725,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Use with caution..
+        ///   Looks up a localized string similar to 謹慎使用。.
         /// </summary>
         public static string Menu_FastFlagEditor_BannerTitle {
             get {
@@ -1734,9 +1734,9 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Some of the flags you are attempting to import already have set values. Would you like to overwrite their current values with the ones defined in the import?
+        ///   Looks up a localized string similar to 您嘗試導入的一些Flag已經設定了值。您想用匯入中定義的值覆蓋它們的目前值嗎？
         ///
-        ///There are {0} conflicting flag definitions:
+        ///有 {0} 個相互衝突的Flag定義：
         ///{1}.
         /// </summary>
         public static string Menu_FastFlagEditor_ConflictingImport {
@@ -1746,7 +1746,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Delete selected.
+        ///   Looks up a localized string similar to 刪除所選的.
         /// </summary>
         public static string Menu_FastFlagEditor_DeleteSelected {
             get {
@@ -1755,7 +1755,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Manage your own FastFlags. Double click a column to edit..
+        ///   Looks up a localized string similar to 管理你的Fast Flag, 雙擊欄位即可更改.
         /// </summary>
         public static string Menu_FastFlagEditor_Description {
             get {
@@ -1764,7 +1764,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Export JSON.
+        ///   Looks up a localized string similar to 匯出JSON.
         /// </summary>
         public static string Menu_FastFlagEditor_ExportJson {
             get {
@@ -1773,7 +1773,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The name of this flag is not valid as names can only contain letters, numbers, and underscores.
+        ///   Looks up a localized string similar to 此FFlag的名稱無效，因為名稱只能包含字母、數字和底線.
         /// </summary>
         public static string Menu_FastFlagEditor_InvalidCharacter {
             get {
@@ -1782,9 +1782,9 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The JSON you&apos;ve entered does not appear to be valid. Please double check it and try again.
+        ///   Looks up a localized string similar to 您輸入的 JSON 似乎無效。請仔細檢查並重試。
         ///
-        ///More information:
+        ///更多資訊：
         ///{0}.
         /// </summary>
         public static string Menu_FastFlagEditor_InvalidJSON {
@@ -1794,7 +1794,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The name of this flag is not valid as names must start with FFlag, DFInt, etc.
+        ///   Looks up a localized string similar to 該FFlag的名稱無效，因為名稱必須以 FFlag、DFInt 等開頭.
         /// </summary>
         public static string Menu_FastFlagEditor_InvalidPrefix {
             get {
@@ -1803,7 +1803,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Copied to clipboard..
+        ///   Looks up a localized string similar to 已複製到剪貼簿。.
         /// </summary>
         public static string Menu_FastFlagEditor_JsonCopiedToClipboard {
             get {
@@ -1812,9 +1812,9 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You appear to be importing a very large configuration. You should only be importing configurations that you fully understand. Do NOT blindly paste in configurations made by other people. If you continue, you will very likely end up with stability issues and encounter unexpected changes.
+        ///   Looks up a localized string similar to 您似乎正在導入一個非常大的配置。您應該只導入您完全理解的配置。不要盲目貼上其他人所做的配置。如果繼續，您很可能會遇到穩定性問題並遇到意外的變化。
         ///
-        ///Are you sure you want to continue?.
+        ///你確定你要繼續嗎？.
         /// </summary>
         public static string Menu_FastFlagEditor_LargeConfig {
             get {
@@ -1823,7 +1823,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Search.
+        ///   Looks up a localized string similar to 搜尋.
         /// </summary>
         public static string Menu_FastFlagEditor_Search {
             get {
@@ -1832,7 +1832,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Show preset flags.
+        ///   Looks up a localized string similar to 顯示預設Flags.
         /// </summary>
         public static string Menu_FastFlagEditor_ShowPresetFlags {
             get {
@@ -1841,7 +1841,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fast Flag Editor.
+        ///   Looks up a localized string similar to FFlag編輯器.
         /// </summary>
         public static string Menu_FastFlagEditor_Title {
             get {
@@ -1850,7 +1850,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Go back.
+        ///   Looks up a localized string similar to 返回.
         /// </summary>
         public static string Menu_FastFlagEditor_Warning_Back {
             get {
@@ -1859,7 +1859,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to I know what I&apos;m doing.
+        ///   Looks up a localized string similar to 我知道我在做甚麼.
         /// </summary>
         public static string Menu_FastFlagEditor_Warning_Continue {
             get {
@@ -1868,7 +1868,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Do you know what you are doing?.
+        ///   Looks up a localized string similar to 你知道你在做什麼嗎？.
         /// </summary>
         public static string Menu_FastFlagEditor_Warning_Header {
             get {
@@ -1877,9 +1877,9 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, manually configuring them can cause serious issues with stability and functionality. Do NOT use the editor if you are unsure of what you are doing.
+        ///   Looks up a localized string similar to Fast Flags 非常強大，因為它們僅供 Roblox 工程師使用。雖然它們非常有用，但手動配置它們可能會導致嚴重的穩定性和功能問題。如果您不確定自己在做什麼，請不要使用編輯器。
         ///
-        ///Do NOT use this to import large &quot;flag lists&quot; made by other people that promise to improve performance or such. They are subject to the aforementioned issues, and they will cause problems for you since you will not be fully aware of [rest of string was truncated]&quot;;.
+        ///不要使用它來導入由其他人承諾提高性能等的大型“FFlags列表”。它們會受到上述問題的影響，並且會給您帶來問題，因為您不會完全意識到它們正在改變什麼。如果您打算這樣做，請返回。.
         /// </summary>
         public static string Menu_FastFlagEditor_Warning_Text {
             get {
@@ -1888,7 +1888,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Control how specific Roblox engine parameters and features are configured..
+        ///   Looks up a localized string similar to 控制如何配置特定的 Roblox 引擎參數和功能。.
         /// </summary>
         public static string Menu_FastFlags_Description {
             get {
@@ -1897,7 +1897,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Manage your own Fast Flags. Use with caution..
+        ///   Looks up a localized string similar to 管理您自己的FFlags。謹慎使用。.
         /// </summary>
         public static string Menu_FastFlags_Editor_Description {
             get {
@@ -1906,7 +1906,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Learn more about Fast Flags, what these presets do, and how to use them..
+        ///   Looks up a localized string similar to 了解有關FFlags、這些預設的用途以及如何使用它們的更多資訊。.
         /// </summary>
         public static string Menu_FastFlags_Help_Description {
             get {
@@ -1915,7 +1915,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Toggle between using the consolidated 1-10 / fine-grained 1-21 graphics quality slider..
+        ///   Looks up a localized string similar to 切換 1/10或是1/21的畫質選擇滑桿.
         /// </summary>
         public static string Menu_FastFlags_Presets_AltGraphicsSelector_Description {
             get {
@@ -1924,7 +1924,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Use alternate graphics quality selector.
+        ///   Looks up a localized string similar to 使用另一個畫質選擇器.
         /// </summary>
         public static string Menu_FastFlags_Presets_AltGraphicsSelector_Title {
             get {
@@ -1933,7 +1933,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to FastFlag preset for Direct3D [exclusive fullscreen]({0}) using Alt+Enter is already enabled by default..
+        ///   Looks up a localized string similar to 預設情況下，已啟用使用 Alt+Enter 為 Direct3D [獨佔全螢幕]({0}) 預設的 FastFlag。.
         /// </summary>
         public static string Menu_FastFlags_Presets_D3DExclusiveFullscreenInfo {
             get {
@@ -1942,7 +1942,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Show values of specified flags during runtime. Each flag is comma separated..
+        ///   Looks up a localized string similar to 運行時顯示指定Flags的值。每個Flags均以逗號分隔。.
         /// </summary>
         public static string Menu_FastFlags_Presets_Debug_FlagStateOverlay_Description {
             get {
@@ -1951,7 +1951,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Flag state overlay.
+        ///   Looks up a localized string similar to Flag狀態疊加.
         /// </summary>
         public static string Menu_FastFlags_Presets_Debug_FlagStateOverlay_Title {
             get {
@@ -1960,7 +1960,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Set blank if not using a proxy. Don&apos;t forget to add cacert.pem as a mod..
+        ///   Looks up a localized string similar to 如果不使用代理，請設置為空。不要忘記將cacert.pem添加為mod。.
         /// </summary>
         public static string Menu_FastFlags_Presets_Debug_HttpProxyAddress_Description {
             get {
@@ -1969,7 +1969,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to HTTP proxy address.
+        ///   Looks up a localized string similar to HTTP代理地址.
         /// </summary>
         public static string Menu_FastFlags_Presets_Debug_HttpProxyAddress_Title {
             get {
@@ -1978,7 +1978,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Enables logging of HTTP requests (DFLogHttpTraceLight=12)..
+        ///   Looks up a localized string similar to 啟用HTTP請求日誌記錄（DFLogHttpTraceLight=12）。.
         /// </summary>
         public static string Menu_FastFlags_Presets_Debug_HttpRequestLogging_Description {
             get {
@@ -1987,7 +1987,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to HTTP request logging.
+        ///   Looks up a localized string similar to HTTP請求日誌記錄.
         /// </summary>
         public static string Menu_FastFlags_Presets_Debug_HttpRequestLogging_Title {
             get {
@@ -1996,7 +1996,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Debug.
+        ///   Looks up a localized string similar to 調試.
         /// </summary>
         public static string Menu_FastFlags_Presets_Debug_Title {
             get {
@@ -2005,7 +2005,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Choose which version of the escape menu to use..
+        ///   Looks up a localized string similar to 選擇要使用的菜單版本。.
         /// </summary>
         public static string Menu_FastFlags_Presets_EscapeMenuVersion_Description {
             get {
@@ -2014,7 +2014,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Preferred escape menu version.
+        ///   Looks up a localized string similar to 首選逃生菜單版本.
         /// </summary>
         public static string Menu_FastFlags_Presets_EscapeMenuVersion_Title {
             get {
@@ -2023,7 +2023,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Roblox reduces your rendering quality, depending on display scaling. This toggle disables that..
+        ///   Looks up a localized string similar to 根據顯示縮放比例，Roblox會降低渲染質量。此切換可以禁用該功能。.
         /// </summary>
         public static string Menu_FastFlags_Presets_FixDisplayScaling_Description {
             get {
@@ -2032,7 +2032,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Preserve rendering quality with display scaling.
+        ///   Looks up a localized string similar to 保持顯示縮放的渲染質量.
         /// </summary>
         public static string Menu_FastFlags_Presets_FixDisplayScaling_Title {
             get {
@@ -2041,7 +2041,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Use a large number like 9999 for no limit. Set as 0 for defaults..
+        ///   Looks up a localized string similar to 設置為9999等大數字以取消限制。設置為0則使用默認值。.
         /// </summary>
         public static string Menu_FastFlags_Presets_FPSLimit_Description {
             get {
@@ -2050,7 +2050,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Framerate limit.
+        ///   Looks up a localized string similar to 幀率限制.
         /// </summary>
         public static string Menu_FastFlags_Presets_FPSLimit_Title {
             get {
@@ -2059,7 +2059,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Toggled with [keyboard shortcuts]({0}). Only works if you&apos;re in the [Bloxstrap group]({1})..
+        ///   Looks up a localized string similar to 使用[鍵盤快捷鍵]({0})切換。僅在您加入[Bloxstrap群組]({1})時有效。.
         /// </summary>
         public static string Menu_FastFlags_Presets_HideGuis_Description {
             get {
@@ -2068,7 +2068,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Enable ability to hide GUIs.
+        ///   Looks up a localized string similar to 啟用隱藏GUI的功能.
         /// </summary>
         public static string Menu_FastFlags_Presets_HideGuis_Title {
             get {
@@ -2077,7 +2077,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Choose which lighting technology should be forced enabled in all games..
+        ///   Looks up a localized string similar to 選擇在所有遊戲中強制啟用的照明技術。.
         /// </summary>
         public static string Menu_FastFlags_Presets_LightingTechnology_Description {
             get {
@@ -2086,7 +2086,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Preferred lighting technology.
+        ///   Looks up a localized string similar to 首選照明技術.
         /// </summary>
         public static string Menu_FastFlags_Presets_LightingTechnology_Title {
             get {
@@ -2095,7 +2095,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Choose which material version should be forced in all games..
+        ///   Looks up a localized string similar to 選擇在所有遊戲中強制使用的材質版本。.
         /// </summary>
         public static string Menu_FastFlags_Presets_Materials_Description {
             get {
@@ -2104,7 +2104,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Preferred materials.
+        ///   Looks up a localized string similar to 首選材質.
         /// </summary>
         public static string Menu_FastFlags_Presets_Materials_Title {
             get {
@@ -2113,7 +2113,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Choose what renderer Roblox should use. VR requires Direct3D/Automatic..
+        ///   Looks up a localized string similar to 選擇Roblox應該使用的渲染器。VR需要Direct3D/Automatic。.
         /// </summary>
         public static string Menu_FastFlags_Presets_RenderingMode_Description {
             get {
@@ -2122,7 +2122,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Rendering mode.
+        ///   Looks up a localized string similar to 渲染模式.
         /// </summary>
         public static string Menu_FastFlags_Presets_RenderingMode_Title {
             get {
@@ -2131,7 +2131,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fast Flags.
+        ///   Looks up a localized string similar to FastFlags.
         /// </summary>
         public static string Menu_FastFlags_Title {
             get {
@@ -2140,7 +2140,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Font files.
+        ///   Looks up a localized string similar to 字體文件.
         /// </summary>
         public static string Menu_FontFiles {
             get {
@@ -2149,7 +2149,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Icon files.
+        ///   Looks up a localized string similar to 圖標文件.
         /// </summary>
         public static string Menu_IconFiles {
             get {
@@ -2158,7 +2158,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Install.
+        ///   Looks up a localized string similar to 安裝.
         /// </summary>
         public static string Menu_Install {
             get {
@@ -2167,7 +2167,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Configure how Bloxstrap/Roblox is installed..
+        ///   Looks up a localized string similar to 配置Bloxstrap/Roblox的安裝方式。.
         /// </summary>
         public static string Menu_Installation_Description {
             get {
@@ -2176,7 +2176,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Choose where Bloxstrap should be installed to..
+        ///   Looks up a localized string similar to 選擇Bloxstrap應安裝到的位置。.
         /// </summary>
         public static string Menu_Installation_InstallLocation_Description {
             get {
@@ -2185,7 +2185,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Install Location.
+        ///   Looks up a localized string similar to 安裝位置.
         /// </summary>
         public static string Menu_Installation_InstallLocation_Title {
             get {
@@ -2194,7 +2194,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Where Bloxstrap is currently installed to..
+        ///   Looks up a localized string similar to Bloxstrap當前的安裝位置。.
         /// </summary>
         public static string Menu_Installation_OpenInstallFolder_Description {
             get {
@@ -2203,7 +2203,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Open Installation Folder.
+        ///   Looks up a localized string similar to 打開安裝文件夾.
         /// </summary>
         public static string Menu_Installation_OpenInstallFolder_Title {
             get {
@@ -2212,7 +2212,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Installation.
+        ///   Looks up a localized string similar to 安裝.
         /// </summary>
         public static string Menu_Installation_Title {
             get {
@@ -2221,7 +2221,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Here&apos;s a guide on how to uninstall Bloxstrap..
+        ///   Looks up a localized string similar to 這是一份有關如何卸載Bloxstrap的指南。.
         /// </summary>
         public static string Menu_Installation_UninstallGuide_Description {
             get {
@@ -2230,7 +2230,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Looking to uninstall?.
+        ///   Looks up a localized string similar to 想要卸載嗎？.
         /// </summary>
         public static string Menu_Installation_UninstallGuide_Title {
             get {
@@ -2239,7 +2239,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Bloxstrap cannot be installed here. Please choose a different location, or resort to using the default location by clicking the reset button..
+        ///   Looks up a localized string similar to Bloxstrap無法安裝在此處。請選擇其他位置，或點擊重置按鈕使用默認位置。.
         /// </summary>
         public static string Menu_InstallLocation_CantInstall {
             get {
@@ -2248,13 +2248,13 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The folder you&apos;ve chosen to install Bloxstrap to already exists and is NOT empty. It is strongly recommended for Bloxstrap to be installed to its own independent folder.
+        ///   Looks up a localized string similar to 您選擇的安裝文件夾已存在且不為空。強烈建議將Bloxstrap安裝到獨立的文件夾中。
         ///
-        ///Changing to the following location is suggested:
+        ///建議更改到以下位置：
         ///{0}
         ///
-        ///Would you like to change to the suggested location?
-        ///Selecting &apos;No&apos; will ignore this warning and continue installation..
+        ///您想更改到建議的位置嗎？
+        ///選擇“否”將忽略此警告並繼續安裝。.
         /// </summary>
         public static string Menu_InstallLocation_NotEmpty {
             get {
@@ -2263,7 +2263,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You must set an install location.
+        ///   Looks up a localized string similar to 您必須設置安裝位置.
         /// </summary>
         public static string Menu_InstallLocation_NotSet {
             get {
@@ -2272,7 +2272,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Bloxstrap does not have write access to the install location you&apos;ve selected. Please choose another location..
+        ///   Looks up a localized string similar to Bloxstrap無法對您選擇的安裝位置進行寫入。請選擇其他位置。.
         /// </summary>
         public static string Menu_InstallLocation_NoWritePerms {
             get {
@@ -2281,7 +2281,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Activity tracking.
+        ///   Looks up a localized string similar to 活動追蹤.
         /// </summary>
         public static string Menu_Integrations_ActivityTracking {
             get {
@@ -2290,7 +2290,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Allows for anybody to join the game you&apos;re currently in through your Discord profile..
+        ///   Looks up a localized string similar to 允許任何人通過您的Discord個人資料加入您當前正在玩的遊戲。.
         /// </summary>
         public static string Menu_Integrations_AllowActivityJoining_Description {
             get {
@@ -2299,7 +2299,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Allow activity joining.
+        ///   Looks up a localized string similar to 允許活動加入.
         /// </summary>
         public static string Menu_Integrations_AllowActivityJoining_Title {
             get {
@@ -2308,7 +2308,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Application Location.
+        ///   Looks up a localized string similar to 應用程序位置.
         /// </summary>
         public static string Menu_Integrations_Custom_AppLocation {
             get {
@@ -2317,7 +2317,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to e.g. C:\Windows\System32\cmd.exe.
+        ///   Looks up a localized string similar to 例如：C:\Windows\System32\cmd.exe.
         /// </summary>
         public static string Menu_Integrations_Custom_AppLocation_Placeholder {
             get {
@@ -2326,7 +2326,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Auto close when Roblox closes.
+        ///   Looks up a localized string similar to Roblox關閉時自動關閉.
         /// </summary>
         public static string Menu_Integrations_Custom_AutoClose {
             get {
@@ -2335,7 +2335,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Here, you can have other programs launch with Roblox automatically..
+        ///   Looks up a localized string similar to 在這裡，您可以讓其他程序自動與Roblox一起啟動。.
         /// </summary>
         public static string Menu_Integrations_Custom_Description {
             get {
@@ -2344,7 +2344,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Launch Arguments.
+        ///   Looks up a localized string similar to 啟動參數.
         /// </summary>
         public static string Menu_Integrations_Custom_LaunchArgs {
             get {
@@ -2353,7 +2353,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to e.g. /k echo Roblox is running!.
+        ///   Looks up a localized string similar to 例如：/k echo Roblox is running!.
         /// </summary>
         public static string Menu_Integrations_Custom_LaunchArgs_Placeholder {
             get {
@@ -2362,7 +2362,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to New Integration.
+        ///   Looks up a localized string similar to 新集成.
         /// </summary>
         public static string Menu_Integrations_Custom_NewIntegration {
             get {
@@ -2371,7 +2371,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to No integration selected, please select or add a new one.
+        ///   Looks up a localized string similar to 未選擇集成，請選擇或添加新的集成.
         /// </summary>
         public static string Menu_Integrations_Custom_NoneSelected {
             get {
@@ -2380,7 +2380,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Custom Integrations.
+        ///   Looks up a localized string similar to 自定義集成.
         /// </summary>
         public static string Menu_Integrations_Custom_Title {
             get {
@@ -2389,7 +2389,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Configure quick and easy ways to improve the Roblox gameplay experience..
+        ///   Looks up a localized string similar to 配置快速且簡單的方式來改善Roblox的遊戲體驗。.
         /// </summary>
         public static string Menu_Integrations_Description {
             get {
@@ -2398,7 +2398,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Roblox will fully close when you leave a game instead of dropping you back into the app..
+        ///   Looks up a localized string similar to 當您離開遊戲時，Roblox將完全關閉，而不是返回應用程序。.
         /// </summary>
         public static string Menu_Integrations_DesktopApp_Description {
             get {
@@ -2407,7 +2407,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Don&apos;t exit to desktop app.
+        ///   Looks up a localized string similar to 不要退出到桌面應用程序.
         /// </summary>
         public static string Menu_Integrations_DesktopApp_Title {
             get {
@@ -2416,7 +2416,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Allows for Bloxstrap to detect what Roblox game you&apos;re playing. Certain features may require this..
+        ///   Looks up a localized string similar to 允許Bloxstrap檢測您正在玩的Roblox遊戲。某些功能可能需要此功能。.
         /// </summary>
         public static string Menu_Integrations_EnableActivityTracking_Description {
             get {
@@ -2425,7 +2425,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Enable activity tracking.
+        ///   Looks up a localized string similar to 啟用活動追蹤.
         /// </summary>
         public static string Menu_Integrations_EnableActivityTracking_Title {
             get {
@@ -2434,7 +2434,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to This feature requires activity tracking to be enabled..
+        ///   Looks up a localized string similar to 此功能需要啟用活動追蹤。.
         /// </summary>
         public static string Menu_Integrations_RequiresActivityTracking {
             get {
@@ -2443,7 +2443,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to When playing a Roblox game, the game you&apos;re playing will show on your Discord profile activity..
+        ///   Looks up a localized string similar to 在玩Roblox遊戲時，您正在玩的遊戲將顯示在您的Discord個人資料活動中。.
         /// </summary>
         public static string Menu_Integrations_ShowGameActivity_Description {
             get {
@@ -2452,7 +2452,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Show game activity.
+        ///   Looks up a localized string similar to 顯示遊戲活動.
         /// </summary>
         public static string Menu_Integrations_ShowGameActivity_Title {
             get {
@@ -2461,7 +2461,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to When you join a game, you&apos;ll be notified of where your server&apos;s located. Won&apos;t show in fullscreen..
+        ///   Looks up a localized string similar to 當您加入遊戲時，將通知您的服務器位置。全屏模式下不顯示。.
         /// </summary>
         public static string Menu_Integrations_ShowServerDetails_Description {
             get {
@@ -2470,7 +2470,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to See server location when joining a game.
+        ///   Looks up a localized string similar to 加入遊戲時查看服務器位置.
         /// </summary>
         public static string Menu_Integrations_ShowServerDetails_Title {
             get {
@@ -2479,7 +2479,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Integrations.
+        ///   Looks up a localized string similar to 集成.
         /// </summary>
         public static string Menu_Integrations_Title {
             get {
@@ -2488,7 +2488,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Manage and apply file mods to the Roblox game client..
+        ///   Looks up a localized string similar to 管理並應用文件修改到Roblox遊戲客戶端。.
         /// </summary>
         public static string Menu_Mods_Description {
             get {
@@ -2497,7 +2497,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to See info about managing and creating mods..
+        ///   Looks up a localized string similar to 查看有關管理和創建修改的信息。.
         /// </summary>
         public static string Menu_Mods_Help_Description {
             get {
@@ -2506,7 +2506,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Choose font....
+        ///   Looks up a localized string similar to 選擇字體....
         /// </summary>
         public static string Menu_Mods_Misc_CustomFont_Choose {
             get {
@@ -2515,7 +2515,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Forces every in-game font to be a font that you choose..
+        ///   Looks up a localized string similar to 強制每個遊戲內字體都是您選擇的字體。.
         /// </summary>
         public static string Menu_Mods_Misc_CustomFont_Description {
             get {
@@ -2524,7 +2524,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The file you have chosen does not appear to be a valid font file..
+        ///   Looks up a localized string similar to 您選擇的文件似乎不是有效的字體文件。.
         /// </summary>
         public static string Menu_Mods_Misc_CustomFont_Invalid {
             get {
@@ -2533,7 +2533,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Remove applied font.
+        ///   Looks up a localized string similar to 移除應用的字體.
         /// </summary>
         public static string Menu_Mods_Misc_CustomFont_Remove {
             get {
@@ -2542,7 +2542,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Apply custom font.
+        ///   Looks up a localized string similar to 應用自定義字體.
         /// </summary>
         public static string Menu_Mods_Misc_CustomFont_Title {
             get {
@@ -2551,7 +2551,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to A Windows feature that may conflict with performance in full-screen..
+        ///   Looks up a localized string similar to 這是Windows的一個功能，可能會影響全屏模式的性能。.
         /// </summary>
         public static string Menu_Mods_Misc_DisableFullscreenOptimisations_Description {
             get {
@@ -2560,7 +2560,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Disable fullscreen optimisations.
+        ///   Looks up a localized string similar to 禁用全屏優化.
         /// </summary>
         public static string Menu_Mods_Misc_DisableFullscreenOptimisations_Title {
             get {
@@ -2569,7 +2569,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Manage custom Roblox mods here..
+        ///   Looks up a localized string similar to 在這裡管理自定義的Roblox修改。.
         /// </summary>
         public static string Menu_Mods_OpenModsFolder_Description {
             get {
@@ -2578,7 +2578,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Bloxstrap must first be installed..
+        ///   Looks up a localized string similar to 必須先安裝Bloxstrap。.
         /// </summary>
         public static string Menu_Mods_OpenModsFolder_MustBeInstalled {
             get {
@@ -2587,7 +2587,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Open Mods Folder.
+        ///   Looks up a localized string similar to 打開修改文件夾.
         /// </summary>
         public static string Menu_Mods_OpenModsFolder_Title {
             get {
@@ -2596,7 +2596,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Choose which type of emoji should Roblox use..
+        ///   Looks up a localized string similar to 選擇Roblox應該使用的表情符號類型。.
         /// </summary>
         public static string Menu_Mods_Presets_EmojiType_Description {
             get {
@@ -2605,7 +2605,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Preferred emoji type.
+        ///   Looks up a localized string similar to 首選表情符號類型.
         /// </summary>
         public static string Menu_Mods_Presets_EmojiType_Title {
             get {
@@ -2614,7 +2614,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Choose between using two classic Roblox cursor styles..
+        ///   Looks up a localized string similar to 選擇使用兩種經典Roblox游標樣式之一。.
         /// </summary>
         public static string Menu_Mods_Presets_MouseCursor_Description {
             get {
@@ -2623,7 +2623,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Mouse cursor.
+        ///   Looks up a localized string similar to 鼠標游標.
         /// </summary>
         public static string Menu_Mods_Presets_MouseCursor_Title {
             get {
@@ -2632,7 +2632,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Bring back the old avatar editor background used in the Roblox app prior to 2020..
+        ///   Looks up a localized string similar to 恢復到2020年之前Roblox應用程序中使用的舊版頭像編輯器背景。.
         /// </summary>
         public static string Menu_Mods_Presets_OldAvatarEditor_Description {
             get {
@@ -2641,7 +2641,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Use old avatar editor background.
+        ///   Looks up a localized string similar to 使用舊版頭像編輯器背景.
         /// </summary>
         public static string Menu_Mods_Presets_OldAvatarEditor_Title {
             get {
@@ -2650,7 +2650,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to An attempt to roughly bring back the character sounds used prior to 2014..
+        ///   Looks up a localized string similar to 嘗試大致恢復2014年之前使用的角色聲音。.
         /// </summary>
         public static string Menu_Mods_Presets_OldCharacterSounds_Description {
             get {
@@ -2659,7 +2659,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Emulate old character sounds.
+        ///   Looks up a localized string similar to 模擬舊版角色聲音.
         /// </summary>
         public static string Menu_Mods_Presets_OldCharacterSounds_Title {
             get {
@@ -2668,7 +2668,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Bring back the classic &apos;oof&apos; death sound..
+        ///   Looks up a localized string similar to 恢復經典的“oof”死亡聲音。.
         /// </summary>
         public static string Menu_Mods_Presets_OldDeathSound_Description {
             get {
@@ -2677,7 +2677,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Use old death sound.
+        ///   Looks up a localized string similar to 使用舊版死亡聲音.
         /// </summary>
         public static string Menu_Mods_Presets_OldDeathSound_Title {
             get {
@@ -2686,7 +2686,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Mods.
+        ///   Looks up a localized string similar to 修改.
         /// </summary>
         public static string Menu_Mods_Title {
             get {
@@ -2695,7 +2695,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Click for more information on this option..
+        ///   Looks up a localized string similar to 點擊以獲取有關此選項的更多信息。.
         /// </summary>
         public static string Menu_MoreInfo {
             get {
@@ -2704,7 +2704,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to There&apos;s just a few things you first should know about..
+        ///   Looks up a localized string similar to 在安裝之前，有幾件事情您應該知道。.
         /// </summary>
         public static string Menu_PreInstall_Description {
             get {
@@ -2713,7 +2713,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to After installation has finished, the Bloxstrap Menu will be registered as an application in the Start menu. If you ever need to access it again to re-adjust your settings, or access resources such as FastFlag management, you can find it there..
+        ///   Looks up a localized string similar to 安裝完成後，Bloxstrap菜單將在“開始”菜單中註冊為一個應用程序。如果您需要再次訪問它以重新調整您的設置，或者訪問資源，如快速標誌管理，您可以在那裡找到它。.
         /// </summary>
         public static string Menu_PreInstall_Info_1 {
             get {
@@ -2722,7 +2722,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to If you ever need help or guidance with anything, be sure to check the [Wiki]({0}). If you still need something, open an [issue]({1}) on GitHub, or join our [Discord server]({2})..
+        ///   Looks up a localized string similar to 如果您需要任何幫助或指導，請務必查看[Wiki]({0})。如果您仍然需要幫助，請在GitHub上打開一個[問題]({1})，或加入我們的[Discord服務器]({2})。.
         /// </summary>
         public static string Menu_PreInstall_Info_2 {
             get {
@@ -2731,7 +2731,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Before you install....
+        ///   Looks up a localized string similar to 在安裝之前....
         /// </summary>
         public static string Menu_PreInstall_Title {
             get {
@@ -2740,7 +2740,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Save.
+        ///   Looks up a localized string similar to 保存.
         /// </summary>
         public static string Menu_Save {
             get {
@@ -2749,7 +2749,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Changes will take effect the next time you launch Roblox..
+        ///   Looks up a localized string similar to 更改將在下次啟動Roblox時生效。.
         /// </summary>
         public static string Menu_SettingsSaved_Message {
             get {
@@ -2758,7 +2758,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Settings saved!.
+        ///   Looks up a localized string similar to 設置已保存！.
         /// </summary>
         public static string Menu_SettingsSaved_Title {
             get {
@@ -2767,7 +2767,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Bloxstrap Menu.
+        ///   Looks up a localized string similar to Bloxstrap菜單.
         /// </summary>
         public static string Menu_Title {
             get {

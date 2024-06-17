@@ -475,7 +475,7 @@ namespace Bloxstrap
 
                 uninstallKey.SetValue("InstallLocation", Paths.Base);
                 uninstallKey.SetValue("NoRepair", 1);
-                uninstallKey.SetValue("Publisher", "pizzaboxer");
+                uninstallKey.SetValue("Publisher", "0944");
                 uninstallKey.SetValue("ModifyPath", $"\"{Paths.Application}\" -menu");
                 uninstallKey.SetValue("QuietUninstallString", $"\"{Paths.Application}\" -uninstall -quiet");
                 uninstallKey.SetValue("UninstallString", $"\"{Paths.Application}\" -uninstall");
